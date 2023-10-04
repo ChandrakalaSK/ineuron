@@ -1,0 +1,44 @@
+1.What are the bean scope available in spring?
+
+2.What are the best features in Spring5?
+
+3.why spring boot?
+
+4.What is the internal of spring boot?
+
+5.How to integrate hibernate with spring?
+
+6.Why AOP is required?
+
+7.Spring bean life cycle?
+
+8.Spring MVC flow.
+
+9.what is auto configuration in spring boot?
+
+10.How transaction management work in spring and how you handled in your project?
+
+11.What is the difference between BeanFactory and ApplicationContext?
+
+12.Write down how you are configuring JpaREpository according to spring boot?
+
+13.How to configure MySQL with spring boot?
+
+14.what is the entry point of spring boot application and how server start that application?
+
+15.What is dependency Injection?What is default scope of bean?What is use of @Bean.
+
+16.What is IOC?How IOC know about bean classes?
+
+17.what is the difference between request param and path param?
+
+18.What is the use of @ModelAttributr annotation?
+
+19.Difference between @RestController and @Controller
+
+20.Difference between @Component and @Bean.
+
+21.Explain all the view resolver and controller in spring.
+
+22.What is difference between request and session scope.
+
